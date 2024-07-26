@@ -62,7 +62,7 @@ StudyNotion aims to provide an immersive learning experience and a platform for 
 
 ### Installation Instructions
 
-#### Clone the Repository (Note these may not work on your system so please first read the code and then try it to implment on your system accordingly.
+#### Clone the Repository (Note these may not work on your system so please first read the code and then try it to implement on your system accordingly.
 ```bash
 git clone <repository-url>
 cd study-notion
