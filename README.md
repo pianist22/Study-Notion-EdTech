@@ -1,3 +1,3 @@
 # Study-Notion-EdTech
 
-The entire code is present on the mster branch.
+The entire code is present on the master branch.
