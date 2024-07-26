@@ -62,7 +62,7 @@ StudyNotion aims to provide an immersive learning experience and a platform for 
 
 ### Installation Instructions
 
-#### Clone the Repository
+#### Clone the Repository (Note these may not work on your system so please first read the code and then try it to implment on your system accordingly.
 ```bash
 git clone <repository-url>
 cd study-notion
@@ -130,15 +130,16 @@ Sign in to Render or Railway and create a new web service.
 Link the service to your GitHub repository.
 Set the environment variables in the Render or Railway dashboard.
 Deploy the service.
+```
 
 
-#Contributing
+# Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-Contact
-For any questions or suggestions, please reach out to us at [priyanshusaha944@gmail.com].
+# Contact
+For any questions or suggestions, please reach out to us at [My email](priyanshusaha944@gmail.com)
 
-Enjoy building and learning with StudyNotion!
-This Code is written under the guidance of [Love Babbar Sir]
+# Enjoy building and learning with StudyNotion!
+This Code is written under the guidance of [Love Babbar](https://github.com/loveBabbar)
 
 
